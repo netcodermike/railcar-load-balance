@@ -1,0 +1,13 @@
+{
+  "maxAxle": 12,
+  "cargo": [
+    {
+      "weight": 8,
+      "position": 0.25
+    },
+    {
+      "weight": 10,
+      "position": 0.75
+    }
+  ]
+}

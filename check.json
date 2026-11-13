@@ -1,0 +1,12 @@
+{
+  "command": [
+    "dotnet",
+    "bin/Debug/net8.0/App.dll"
+  ],
+  "expected": {
+    "total": 18,
+    "left": 8.5,
+    "right": 9.5,
+    "overLimit": false
+  }
+}
